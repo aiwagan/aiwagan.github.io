@@ -1,20 +1,20 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            AIWorks
+tagline:          Machine Learning and Data Science.
+description:      Musings of a data scientist.
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Asim Imdad Wagan
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            "Thinking Machines"
+  email:          aiwagan@gmail.com
+  twitter:        aiwagan
+  github:         aiwagan
+  instagram:      aiwagan
+  dribbble:       aiwagan
+  disqus:         aiwagan
+  location:       "Karachi, PK"
   # Plug in your disqus shortname!
 
 tools:
@@ -31,10 +31,10 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/aiwagan
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: AI Who?
+    url: http://aiwagan.github.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
